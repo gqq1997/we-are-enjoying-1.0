@@ -1,8 +1,10 @@
 # we are enjoying
-we are enjoying是一款用于大学生组织和参加校园活动的微信小程序<br>
-
-## we are enjoying小程序码（长按扫描小程序码查看示例）
-
+we are enjoying是一款用于大学生组织和参加校园活动的微信小程序,为湖师院学子提供一个交友进结伴的平台<br>
+在前端框架上参考了[微现场签到小程序][http://www.pc6.com/xcx/627393.html]，在此基础上：
+1.将小程序范围定义在校园活动
+2.增加了活动首页模块
+3.增加了发起活动模块
+4.增加了动态通知模块
 
 ## 主要功能
 1.学生可以发起活动，填写活动的相关信息，创建一个新活动<br>
@@ -14,7 +16,7 @@ we are enjoying是一款用于大学生组织和参加校园活动的微信小�
 ## 项目配置
 后端方面运用了Bmob后端云<br>
 #### 配置小程序密钥和获取应用密钥
-将app.js 里的这行 Bmob.initialize("9f106xxxxxxx3fxxxx080", "3xxxwehkfsxxxxxsafxxx"); 代码替换成你的应用程序的对应配置秘钥
+将  app.js 里的这行  Bmob.initialize("9f106xxxxxxx3fxxxx080", "3xxxwehkfsxxxxxsafxxx"); 代码替换成你的应用程序的对应配置秘钥
 既Bmob.initialize("你的Application ID", "你的REST API Key");
 #### 配置安全域名
 在你的微信小程序后台配置你的服务器域名,
