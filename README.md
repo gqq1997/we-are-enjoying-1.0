@@ -14,13 +14,13 @@
 5.学生可以在侧滑栏中查看到自己的发起活动、收藏活动、个人简介，可以编辑自己的个人信息，完善自己的个人简介 <br>
 
 ## 项目配置
-后端方面运用了Bmob后端云<br>
+使用Bmob后端云提供数据处理和存储支持<br>
 #### 配置小程序密钥和获取应用密钥
 将`app.js`里的这行`Bmob.initialize("9f106xxxxxxx3fxxxx080", "3xxxwehkfsxxxxxsafxxx");`代码替换成你的应用程序的对应配置秘钥
 既`Bmob.initialize("你的Application ID", "你的REST API Key");`
 #### 配置安全域名
 在你的微信小程序后台配置你的服务器域名,
-具体文档可见[Bomb后端云](http://doc.bmob.cn/data/wechat_app/index.html)
+具体文档可见[Bmob后端云](http://doc.bmob.cn/data/wechat_app/index.html)
 
 ## 更新日志
 #### 2018年12月26日 星期三<br>
