@@ -13,7 +13,7 @@ we are enjoying是一款用于大学生组织和参加校园活动的微信小�
 具体文档可见[Bomb后端云](http://doc.bmob.cn/data/wechat_app/index.html)
 
 ## 更新日志
-2018年12月25日<br>
+### 2018年12月26日 星期三<br>
 1.完成了基本前端框架<br>
 2.引入Bomb后端云的小程序SDK，完成后端功能<br>
 3.修改了小程序logo<br>
