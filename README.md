@@ -1,4 +1,4 @@
-# -1.0版本
+# we are enjoying
 we are enjoying是一款用于大学生组织和参加校园活动的微信小程序<br>
 
 ## we are enjoying小程序码（长按扫描小程序码查看示例）
